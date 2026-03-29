@@ -45,9 +45,13 @@ Render
 🛠️ How It Works
 
 User registers and logs into the platform
+
 Adds income and expense details
+
 System processes and categorizes transactions
+
 AI model analyzes spending behavior
+
 Provides insights, suggestions, and reports
 
 🌟 Future Enhancements
