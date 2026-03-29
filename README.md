@@ -1,8 +1,10 @@
 # Hackathon-Project
 💰 Money Mentor
+
 📌 Overview
 
 Money Mentor is an AI-powered personal finance management platform designed to help users track, analyze, and optimize their financial activities. It provides intelligent insights, budgeting tools, and personalized financial advice to improve money management and achieve financial goals.
+
 🚀 Features
 📊 Expense Tracking – Monitor daily income and expenses بسهولة
 🤖 AI Financial Advisor – Get smart suggestions based on spending patterns
@@ -32,6 +34,7 @@ LLM APIs / AI-based financial recommendation system
 Deployment:
 
 Render
+
 🛠️ How It Works
 User registers and logs into the platform
 Adds income and expense details
