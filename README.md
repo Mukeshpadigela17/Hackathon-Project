@@ -1,67 +1,123 @@
-# Hackathon-Project
-💰 Money Mentor
+# ✨ Money Mentor: Your One-Stop Destination for Finance 💼💡  
+[🔗 Live Website](https://money-mentor-1.onrender.com/) | **Your Personal Finance Companion**  
 
-📌 Overview
+💡 **Money Mentor** is a **comprehensive financial education platform** designed to help users learn about trading and manage their financial health effectively. From **real-time stock market updates** 📊 to **personalized expense tracking** 🧾, we provide an interactive platform to **enhance financial literacy** and **simplify financial management**.  
 
-Money Mentor is an AI-powered personal finance management platform designed to help users track, analyze, and optimize their financial activities. It provides intelligent insights, budgeting tools, and personalized financial advice to improve money management and achieve financial goals.
+---
 
-🚀 Features
+## 🌟 Key Features  
 
-📊 Expense Tracking – Monitor daily income and expenses 
+### 📊 **Dashboard**  
+- A **centralized hub** with **real-time stock market graphs** 📉📈.  
+- Instant access to key **financial insights** at a glance.  
 
-🤖 AI Financial Advisor – Get smart suggestions based on spending patterns
+### 🧮 **User-Friendly Financial Tools**  
+- Simple **calculators** for quick financial computations.  
+- **Financial Score Calculator** to assess financial health.  
 
-📈 Analytics Dashboard – Visual representation of financial data
+### 📚 **Learning Section**  
+- **Educational chapters**, **blogs**, and **resources** 📝 to boost financial knowledge.  
+- Interactive content tailored for **beginners** and **intermediate traders**.  
 
-🎯 Budget Planning – Set and manage budgets effectively
+### 💵 **Expense Tracker**  
+- **Personal budgeting tool** for tracking **daily expenses** and managing financial health.  
+- Categorized spending insights for better money management.  
 
-🔔 Smart Alerts – Notifications for overspending and savings goals
+### 🎨 **User-Friendly Interface**  
+- **Intuitive design** that ensures a smooth **user experience**.  
+- Seamless **navigation** for **financial management and learning**.  
 
-🔐 Secure Authentication – User data protection and privacy
+🌟 Whether you're a **beginner** or an **intermediate trader**, Money Mentor equips you with **everything needed** to enhance your **financial literacy** and **take control of your finances**!  
 
-🧠 Tech Stack
+---
 
-Frontend:
+## 🛠 Tech Stack  
 
-HTML, CSS, JavaScript
-React.js (if used)
+🔹 **Frontend**: EJS, Bootstrap, HTML, CSS, JavaScript  
+🔹 **Backend**: Node.js, Express.js (with Express-session and Passport.js for authentication)  
+🔹 **Database**: MongoDB  
+🔹 **Version Control**: Git, GitHub  
 
-Backend:
+✅ **Built using the MVC (Model-View-Controller) architecture** for **scalability** and **organized code** 🛠.  
 
-Node.js / Express.js
+---
 
-Database:
+## 🛠️ Installation Guide  
 
-MongoDB
+**1️⃣ Clone the repository:**  
+```bash
+git clone https://github.com/jeet0407/Money-Mentor-.git
+cd Money-Mentor-
+```
 
-AI/ML:
+**2️⃣ Install dependencies:**  
+```bash
+npm install
+```
 
-LLM APIs / AI-based financial recommendation system
+**3️⃣ Set up environment variables:**  
+Create a `.env` file in the root directory and add:  
+```env
+PORT=3000
+MONGODB_URI=your_mongodb_connection_string
+SESSION_SECRET=your_session_secret
+```
 
-Deployment:
+**4️⃣ Start the application:**  
+```bash
+npm start
+```
+🔗 Open **`http://localhost:3000`** in your browser.  
 
-Render
+---
 
-🛠️ How It Works
+## 🎯 How to Use  
 
-User registers and logs into the platform
+📌 **Sign Up/Login** – Create an account for a personalized experience.  
+📌 **Explore the Dashboard** – Access stock market insights and financial tools.  
+📌 **Track Expenses** – Log your daily transactions with ease.  
+📌 **Set Budgets** – Define spending limits and monitor financial health.  
+📌 **Learn & Grow** – Read educational blogs and boost financial knowledge.  
 
-Adds income and expense details
+---
 
-System processes and categorizes transactions
+## 🌍 Contributing  
 
-AI model analyzes spending behavior
+We ❤️ contributions! To contribute:  
 
-Provides insights, suggestions, and reports
+1️⃣ **Fork** this repository.  
+2️⃣ **Create a new branch:**  
+```bash
+git checkout -b feature-name
+```
+3️⃣ **Commit your changes:**  
+```bash
+git commit -m "Added new feature"
+```
+4️⃣ **Push and submit a Pull Request:**  
+```bash
+git push origin feature-name
+```  
 
-🌟 Future Enhancements
+💡 **Your contributions help us improve Money Mentor for everyone!** 🚀  
 
-📱 Mobile application support
+---
 
-💳 Bank API integration
+## 📜 License  
+📝 This project is licensed under the **MIT License**.  
 
-🧾 Automated expense detection
+---
 
-🌍 Multi-language support
+## 👥 Team & Acknowledgements  
 
-📊 Advanced predictive analytics
+👤 **[@Jeet](https://github.com/jeet0407)**  
+👤 **[@Aryan Sawant](https://github.com/aryanjsawant)**  
+👤 **[@Pratham Maheshwari](https://github.com/Pratham597)**  
+👤 **[@Devang Vala](https://github.com/devang-vala)**  
+
+🚀 Special thanks to our **mentor, [Ujjawal Tripathi](#),** for his guidance and support throughout the project!  
+
+---
+
+📌 **Project Link:** [Money Mentor](https://github.com/jeet0407/Money-Mentor-)  
+🌐 **Live Website:** [Money Mentor](https://money-mentor-1.onrender.com/)  
